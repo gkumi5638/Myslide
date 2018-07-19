@@ -9,10 +9,12 @@ Twitter：@HappyK514<br>
 ---
 ### 今日お話すること
 1. Rubykaigiとは
-1. きっかけ
 1. 体験したこと
-1. 楽しかったこと
 1. 最後に
+---
+### きっかけは@udzuraさんから
+
+　以前参加されたRailsgirlsさんの方から、<br>Rubykaigi2018への参加支援があるようですよ。<br>とお声がけいただいたことでした。
 ---
 ### こんなところでした
 ---?image=assets/P6013781.JPG
@@ -20,10 +22,6 @@ Twitter：@HappyK514<br>
 photo2
 ---
 photo3
----
-### きっかけは@udzuraさんから
-
-　以前参加されたRailsgirlsさんの方から、<br>Rubykaigi2018への参加支援があるようですよ。<br>とお声がけいただいたことでした。
 ---
 ### 株式会社Speeeさん主催のコード懇親会に参加してきました
 ---?image=assets/a.jpg
