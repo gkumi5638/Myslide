@@ -15,8 +15,7 @@ Twitter：@HappyK514
 1. 最後に
 ---
 ### こんなところでした
----
-photo1
+---?image=assets/P6013781.JPG
 ---
 photo2
 ---
