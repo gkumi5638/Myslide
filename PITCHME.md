@@ -10,8 +10,8 @@ Rubykaigi2018に参加してきました
 武林 久美<br>
 Twitter：@HappyK514<br>
 趣味：空の観察<br>
+---?image=assets/P6013698.JPG
 ---
-
 いであ株式会社<br>
 環境アセスメント関係の環境調査<br>
 海や川の水質調査や生物の生態調査<br>
@@ -26,17 +26,10 @@ Uchio KONDO@udzuraさんから
 ---
 ### こんなところでした
 ---?image=assets/P6013781.JPG
----?image=assets/P6013781.JPG
----?image=assets/P6013781.JPG
 ---
 ### TRICK(FINAL)
 
-定義は
--
--
--
-
-意味はわからない、、けれど面白くて感動しました！！
+意味はわからない、、けれど面白くて感動しました！！<br>
 例えば・・・(実演)
 
 ---
