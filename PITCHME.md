@@ -25,10 +25,10 @@ Uchio KONDO@udzuraさんから
 　以前参加されたRailsgirlsさんの方から、<br>Rubykaigi2018の参加支援があるようですよ。<br>とお声がけいただいたことでした。
 ---
 ### こんなところでした
----?image=assets/IMG_20180601_112153.jpg
----?image=assets/IMG_20180601_145205.jpg
 ---?image=assets/P6013781.JPG
+---?image=assets/IMG_20180601_145205.jpg
 ---?image=assets/IMG_20180602_104937.jpg
+---
 ### TRICK(FINAL)
 
 意味はわからない、、けれど面白くて感動しました！！<br>
